@@ -9,11 +9,11 @@
 The [Urban Lunch](https://www.youtube.com/watch?v=0n95FT2YMgU) is an Android app that allows customers to order meals from different restaurants in the city and collect them from one of the pickup points. 
 
 <p float="left">
-  <img src="/Screenshots/Urban_Lunch_Restaurant_Pick.png" alt=" Using this app, user can pick restaurants" width=19.4% height=19.4%>
-  <img src="/Screenshots/Urban_Lunch_Dish_Pick.png" alt=" Using this app, user can pick dishes" width=19.8% height=19.8%> 
-  <img src="/Screenshots/Urban_Lunch_Dish_Details.png" alt=" Using this app, user can see the dishes details" width=19.4% height=19.4%>
-  <img src="/Screenshots/Urban_Lunch_Order_Details.png" alt=" Using this app, user can see the order details" width=19.7% height=19.7%>
-  <img src="/Screenshots/Urban_Lunch_Order_Status.png" alt=" Using this app, user can check the order status" width=19.7% height=19.7%>
+  <img src="/Screenshots/Urban_Lunch_Restaurant_Pick.png" alt=" Using this app, user can pick restaurants" width=19% height=19%>
+  <img src="/Screenshots/Urban_Lunch_Dish_Pick.png" alt=" Using this app, user can pick dishes" width=19.4% height=19.4%> 
+  <img src="/Screenshots/Urban_Lunch_Dish_Details.png" alt=" Using this app, user can see the dishes details" width=19% height=19%>
+  <img src="/Screenshots/Urban_Lunch_Order_Details.png" alt=" Using this app, user can see the order details" width=19.3% height=19.3%>
+  <img src="/Screenshots/Urban_Lunch_Order_Status.png" alt=" Using this app, user can check the order status" width=19.3% height=19.3%>
 </p>
 
 ## Tasks
