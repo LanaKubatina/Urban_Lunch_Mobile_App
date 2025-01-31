@@ -9,9 +9,11 @@
 The [Urban Lunch](https://www.youtube.com/watch?v=0n95FT2YMgU) is an Android app that allows customers to order meals from different restaurants in the city and collect them from one of the pickup points. 
 
 <p float="left">
-  <img src="/Screenshots/Urban Lunch Screenshot_1.png" alt=" Using this app, user can choose a restaurant" width=30% height=30%>
-  <img src="/Screenshots/Urban Lunch Screenshot_2.png" alt=" Using this app, user can choose dishes" width=30% height=30%> 
-  <img src="/Screenshots/Urban Lunch Screenshot_3.png" alt=" Using this app, user can choose number of dishes" width=30% height=30%>
+  <img src="/Screenshots/Urban_Lunch_Restaurant_Pick.png" alt=" Using this app, user can pick restaurants" width=30% height=30%>
+  <img src="/Screenshots/Urban_Lunch_Dish_Pick.png" alt=" Using this app, user can pick dishes" width=30% height=30%> 
+  <img src="/Screenshots/Urban_Lunch_Dish_Details.png" alt=" Using this app, user can see the dishes details" width=30% height=30%>
+  <img src="/Screenshots/Urban_Lunch_Order_Details.png" alt=" Using this app, user can see the order details" width=30% height=30%>
+  <img src="/Screenshots/Urban_Lunch_Order_Status.png" alt=" Using this app, user can check the order status" width=30% height=30%>
 </p>
 
 ## Tasks
