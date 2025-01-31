@@ -13,7 +13,7 @@ As a tester, I needed to perform:
 1. Working with the requirements for the Urban Lunch mobile app. 
 2. Creating a [checklist](https://docs.google.com/spreadsheets/d/1EmdMfCnx_kMGxtatgl4rpvJB0f37WWQRjxPv9pcE2gM/edit?usp=sharing) for testing the Urban Lunch app.
 3. Testing the mobile app in the emulator.
-4. Creating bug reports in Jira. 
+4. Creating [bug reports](https://docs.google.com/document/d/1Zjct2bb5toIwtmkEa5XXl8sAFnve2VSwc0GH0ILjy-M/edit?usp=sharing) in Jira. 
 5. Writing a test report. 
 
 ## Findings
