@@ -6,7 +6,13 @@
 - Test Design
 
 ## Overview
-The [Urban Lunch](https://www.youtube.com/watch?v=0n95FT2YMgU) is an Android app that allows customers to order meals from different restaurants in the city, and then collect them from one of the pickup points. 
+The [Urban Lunch](https://www.youtube.com/watch?v=0n95FT2YMgU) is an Android app that allows customers to order meals from different restaurants in the city and collect them from one of the pickup points. 
+
+<p float="left">
+  <img src="/Screenshots/Urban Lunch Screenshot_1.png" alt=" Using this app, user can choose a restaurant" width=30% height=30%>
+  <img src="/Screenshots/Urban Lunch Screenshot_2.png" alt=" Using this app, user can choose dishes" width=30% height=30%> 
+  <img src="/Screenshots/Urban Lunch Screenshot_3.png" alt=" Using this app, user can choose number of dishes" width=30% height=30%>
+</p>
 
 ## Tasks
 As a tester, I needed to perform:
@@ -17,9 +23,9 @@ As a tester, I needed to perform:
 5. Writing a test report. 
 
 ## Findings
-The application largely functions as intended, with most core features working correctly. However, there are several critical issues related to navigation, display of information, and order processing that require attention.
-In my test report I highlighted several key areas for improvement:
-- Fix UI/UX navigation issues (pick-up points order, dish details screen).
+The application functions as intended, with most core features working correctly. However, several critical navigation, information display, and order processing issues require attention.
+In my test report, I highlighted several key areas for improvement:
+- Fix UI/UX navigation issues (pickup points order, dish details screen).
 - Ensure complete and correct data display (restaurant names, cooking time, delivery cost).
 - Improve post-order handling (redirect to new order process, map accuracy).
-- Clarify error messages and feedback elements to provide better user experience.
+- Clarify error messages and feedback elements to provide a better user experience.
