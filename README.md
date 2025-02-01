@@ -6,7 +6,7 @@
 - Test Design
 
 ## Overview
-The [Urban Lunch](https://www.youtube.com/watch?v=0n95FT2YMgU) is an Android app that allows customers to order meals from different restaurants in the city and collect them from one of the pickup points. 
+The Urban Lunch is an Android app that allows customers to order meals from different restaurants in the city and collect them from one of the pickup points. 
 
 <p float="left">
   <kbd>
